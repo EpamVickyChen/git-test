@@ -1,1 +1,2 @@
 a = 'apple' 
+c = 'cake'
