@@ -7,3 +7,6 @@ def login_with_pwd():
 
 def login_with_mfa():
     pass
+
+def new hotfix();
+    pass
